@@ -1,9 +1,7 @@
-================================
-Aligner.py-LEIA-ME
-================================
---------------------------------
+SAFE - Speech Alignment & Feature Extraction
+---------
 Passos para rodar o script python
---------------------------------
+---------
 1. Crie a pasta "C:\Praat" e coloque o "Praat.exe" nela.
 2. Crie a pasta "C:\Praat\Aligner" e coloque os arquivos listados abaixo nela.
 	- scripts:
