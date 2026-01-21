@@ -1,5 +1,5 @@
 ================================
-Aligner.py - LEIA-ME
+Aligner.py-LEIA-ME
 ================================
 --------------------------------
 Passos para rodar o script python
