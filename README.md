@@ -120,6 +120,6 @@ Nota: para desativar o ambiente, use o comando: conda deactivate.
 	
 Nota: para execução dos comandos mfa é preciso estar com o ambiente do conda "aligner" ativado.
 --------------------------------
-Para assistir um vídeo demo do SAFE, clique aqui: https://www.dropbox.com/scl/fo/kilbnwc0v56rcw3iwzemj/AGq2RHHxuNX7_vWV4jAhAQQ?rlkey=jb86p3451lirovh603s0k9u2q&dl=0
+Para assistir a um trailer do SAFE, clique aqui: https://www.dropbox.com/scl/fo/kilbnwc0v56rcw3iwzemj/AGq2RHHxuNX7_vWV4jAhAQQ?rlkey=jb86p3451lirovh603s0k9u2q&dl=0
 --------------------------------
 ================================
