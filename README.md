@@ -119,6 +119,7 @@ Nota: para desativar o ambiente, use o comando: conda deactivate.
 	mfa align --clean C:\Praat portuguese_brazil_mfa portuguese_mfa C:\Praat
 	
 Nota: para execução dos comandos mfa é preciso estar com o ambiente do conda "aligner" ativado.
+--------------------------------
 Para assistir um vídeo demo do SAFE, clique aqui: https://www.dropbox.com/scl/fo/kilbnwc0v56rcw3iwzemj/AGq2RHHxuNX7_vWV4jAhAQQ?rlkey=jb86p3451lirovh603s0k9u2q&dl=0
 --------------------------------
 ================================
