@@ -1,6 +1,6 @@
 Protocolo SAFE - Speech Alignment & Feature Extraction
 ---------
-*AVISO - Este é um projeto em desenvolvimento*
+*AVISO - Este é um protótipo de um projeto em desenvolvimento*
 ---------
 Passos para rodar o script python
 ---------
