@@ -1,4 +1,4 @@
-Protocolo SAFE - Speech Alignment & Feature Extraction
+Protocolo SAFE - Speech Alignment & Feature Extraction (Silva Jr. & Monte, 2026)
 ---------
 *AVISO - Este é um protótipo de um projeto em desenvolvimento. As instruções e arquivos atualizados estarão disponíveis em breve!*
 ================================
