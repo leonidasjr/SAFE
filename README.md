@@ -4,7 +4,7 @@ Protocolo SAFE - Speech Alignment & Feature Extraction
 ================================
 Por enquanto, sigam essas isntruções provisórias abaixo.
 
-**Leônidas Silva Jr. & João Marcelo Monte**
+#**Leônidas Silva Jr. & João Marcelo Monte**
 
 %%%%%% =========================== %%%%%%
 
