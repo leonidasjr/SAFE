@@ -5,7 +5,7 @@ authors:
     given-names: "Leonidas"
   - family-names: "Monte"
     given-names: "Joao Marcelo"
-title: "SAFE: Speech Alignment and Feature Extractior"
+title: "SAFE: Speech Alignment and Feature Extractor"
 version: 1.0.0
 date-released: 2026-01-02
 url: "https://github.com/leonidasjr/SAFE/"
