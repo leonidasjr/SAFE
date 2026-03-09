@@ -1,10 +1,14 @@
-Protocolo SAFE - Speech Alignment & Feature Extraction (Silva Jr. & Monte, 2026)
+Protocolo SAFE - Speech Alignment & Feature Extractor
 ---------
 *AVISO - Este é um protótipo de um projeto em desenvolvimento. As instruções e arquivos atualizados estarão disponíveis em breve!*
 ================================
 ### Por enquanto, sigam essas isntruções provisórias abaixo.
 
 ## **Leônidas Silva Jr. & João Marcelo Monte**
+
+Como citar (ABNT)
+
+### SILVA JR, L.; MONTE, J. M. SAFE: **Speech Alignment and Feature Extractor**. Versão 1.0.0. [S. l.], 2026. Disponível em: https://github.com/leonidasjr/SAFE/. Acesso em: 'dia' 'mes'. 'ano'.
 
 %%%%%% =========================== %%%%%%
 
