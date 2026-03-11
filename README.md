@@ -1,8 +1,8 @@
 Protocolo SAFE - Speech Alignment & Feature Extractor
 ---------
-#*AVISO - Este é um protótipo de um projeto em desenvolvimento. 
----------
-#As instruções e arquivos atualizados estarão disponíveis em breve!*
+*AVISO - Este é um protótipo de um projeto em desenvolvimento. 
+===============================
+As instruções e arquivos atualizados estarão disponíveis em breve!*
 ================================
 
 ## **Leônidas Silva Jr. & João Marcelo Monte**
