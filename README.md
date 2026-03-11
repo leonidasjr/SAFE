@@ -139,4 +139,4 @@ Nota: para execução dos comandos mfa é preciso estar com o ambiente do conda 
 --------------------------------
 ================================
 
-# BONUS: Para ver um trailer do SAFE em uso, clique aqui: https://www.dropbox.com/scl/fi/qmlgn9rksf7d7jqn4hsoo/SAFE_Trailer.mp4?rlkey=5o4p1jkin3fcjpwgyqnx87r2x&st=09ybulln&dl=0
+### BONUS: Para ver um trailer do SAFE em uso, clique aqui: https://www.dropbox.com/scl/fi/qmlgn9rksf7d7jqn4hsoo/SAFE_Trailer.mp4?rlkey=5o4p1jkin3fcjpwgyqnx87r2x&st=09ybulln&dl=0
