@@ -131,8 +131,11 @@ Nota: para desativar o ambiente, use o comando: conda deactivate.
 	mfa model list dictionary
 	
 	mfa align --clean C:\Praat portuguese_brazil_mfa portuguese_mfa C:\Praat
-	
+
+	(Para mais modelos acústicos, visite o site do MFA em: https://mfa-models.readthedocs.io/en/latest/acoustic/index.html)
+
 Nota: para execução dos comandos mfa é preciso estar com o ambiente do conda "aligner" ativado.
 --------------------------------
 ================================
 
+# BONUS: Para ver um traleir do sitema em funcionamento, clique aqui: https://www.dropbox.com/scl/fi/qmlgn9rksf7d7jqn4hsoo/SAFE_Trailer.mp4?rlkey=5o4p1jkin3fcjpwgyqnx87r2x&st=09ybulln&dl=0
